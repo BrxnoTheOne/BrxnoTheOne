@@ -1,5 +1,4 @@
 ## Olá, tudo bem? bem-vindo(a) ao meu perfil.
-<h2>meu nome é <str>Bruno Rocha</str></h2>
 
 - 🔭 Atualmente ainda estou buscando oportunidades na área de tecnologia.
 - ⛵ aprendendo como funcionam API's entre outras habilidades no Instituto Proa 
