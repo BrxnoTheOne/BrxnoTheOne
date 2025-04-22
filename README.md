@@ -6,5 +6,3 @@
 - 👨🏾‍💼 buscando oportunidades principalmente na área de front, UI/UX e design para ganhar experiencia.
 - 💬 sou curioso, proativo e dedicado.
 - ⚡ sou hiperativo. Gosto de treinar, caminhar, aprender superando meus medos e andar de moto.
-
-(https://github-readme-stats.vercel.app/api?username=BrxnoTheOne)
