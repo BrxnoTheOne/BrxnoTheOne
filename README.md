@@ -16,7 +16,7 @@ Acredito que dados só têm valor quando ajudam a **tomar melhores decisões**. 
 ## 🛠️ Tecnologias
 - **Linguagens:** Python, SQL, JS  
 - **Análise de Dados:** Pandas, NumPy  
-- **Bancos de Dados:** PostgreSQL, MySQL  
+- **Bancos de Dados:** MySQL Server
 - **Ferramentas:** Git, GitHub  
 - **QA:** Testes Exploratórios, Testes Manuais, Criação de Cenários, Validação de Dados  
 
