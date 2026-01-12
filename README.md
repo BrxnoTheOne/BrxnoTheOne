@@ -1,6 +1,4 @@
-## Olá, tudo bem? bem-vindo(a) ao meu perfil.
-
-# 👋 Olá, eu sou o Bruno Rocha
+## Olá, tudo bem? eu sou o Bruno Rocha, seja bem-vindo(a) ao meu perfil.
 
 QA Junior com experiência em testes manuais exploratórios e análise de dados para grandes clientes do mercado financeiro. Atualmente em transição para a área de Dados e Analytics, com foco em análises orientadas a negócio, automação de processos e geração de insights acionáveis.
 
