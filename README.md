@@ -32,8 +32,3 @@ Cada projeto busca responder **uma pergunta clara de negócio**, e não apenas d
 - Ciencia de Dados
 - Business Intelligence / Inteligência Comercial  
 - Analytics aplicado a Produto e Operações  
-
-
-
-- LinkedIn: www.linkedin.com/in/bruno-rocha01
-- Email: brunorochatec@gmail.com 
