@@ -31,4 +31,6 @@ Cada projeto busca responder **uma pergunta clara de negócio**, e não apenas d
 - Analista de Dados
 - Ciencia de Dados
 - Business Intelligence / Inteligência Comercial  
-- Analytics aplicado a Produto e Operações  
+- Analytics aplicado a Produto e Operações
+
+- Meu email: brunorochatec@gmail.com
