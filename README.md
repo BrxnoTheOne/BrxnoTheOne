@@ -1,36 +1,28 @@
-## Olá, tudo bem? eu sou o Bruno Rocha, seja bem-vindo(a) ao meu perfil.
+# Olá, tudo bem? Eu sou o Bruno Rocha! Seja bem-vindo(a) ao meu perfil. 🚀
 
-QA Junior com experiência em testes manuais exploratórios e análise de dados para grandes clientes do mercado financeiro. Atualmente em transição para a área de Dados e Analytics, com foco em análises orientadas a negócio, automação de processos e geração de insights acionáveis.
+Sou um profissional de Dados e Qualidade com sólida experiência em garantir a integridade técnica de sistemas complexos e extrair valor estratégico para o mercado financeiro. Tenho uma forte visão orientada a produto, focada em automação, pipelines analíticos e na geração de insights que impactam diretamente o negócio.
+
+Acredito que dados só têm valor quando resolvem problemas reais. Meu objetivo é conectar informações brutas a decisões práticas que gerem eficiência e escala.
 
 ## 🎯 Sobre mim
-- 💼 QA Junior atuando com testes exploratórios e análise de dados  
-- 🧠 Mentalidade de resolução de problemas  
-- 📊 Experiência com SQL para investigação de cenários, identificação de padrões e apoio à tomada de decisão  
-- 🐍 Em constante evolução em Python e Pandas para análise de dados e automação  
-- 🚀 Interesse em aplicar dados para melhorar produtos, processos e resultados de negócio  
+* 💼 **QA Tester & Analista de Dados** focado na interseção entre qualidade de software e inteligência de negócios.
+* 🧠 **Mentalidade analítica e orientada a produto**, garantindo que a engenharia e a análise atendam às dores reais dos usuários.
+* 📊 Experiência robusta com **SQL** para investigação de cenários complexos, validação de integridade e apoio à tomada de decisão.
+* 🐍 Desenvolvimento contínuo em **Python**, com forte foco em automação, integração de APIs e exploração de modelos de IA / LLMs para ganho de produtividade.
 
-Acredito que dados só têm valor quando ajudam a **tomar melhores decisões**. Meu objetivo é conectar dados brutos a insights práticos que gerem eficiência e impacto real.
+## 🛠️ Stack Tecnológico
+* **Linguagens:** Python, SQL, JavaScript
+* **Dados & Machine Learning:** Pandas, NumPy, Scikit-learn, Matplotlib
+* **Bancos de Dados:** PostgreSQL, MySQL Server
+* **Infraestrutura & Ferramentas:** Docker, Git/GitHub, Oracle Cloud Infrastructure (OCI)
+* **Engenharia de Qualidade:** Testes Exploratórios, Validação de Dados em Larga Escala, Análise de Causa Raiz
 
-## 🛠️ Tecnologias
-- **Linguagens:** Python, SQL, JS  
-- **Análise de Dados:** Pandas, NumPy  
-- **Bancos de Dados:** MySQL Server
-- **Ferramentas:** Git, GitHub  
-- **QA:** Testes Exploratórios, Testes Manuais, Criação de Cenários, Validação de Dados  
+## 📌 O que você vai encontrar nos meus repositórios
+* 📈 Análise exploratória e *data storytelling* aplicados a contextos reais (Churn, E-commerce).
+* 🤖 Sistemas de Machine Learning (como motores de recomendação) focados na experiência do usuário.
+* ⚙️ Scripts de automação e integração de dados para redução de trabalho manual.
+* 🔄 Fluxos completos: desde a extração e limpeza do dado bruto (ETL) até a conclusão visual.
 
-## 📌 O que você vai encontrar aqui
-Este GitHub reúne **projetos práticos**, focados em:
-- Análise de dados aplicada a problemas reais de negócio  
-- Scripts de automação para redução de tarefas manuais  
-- Consultas SQL voltadas para investigação e geração de insights  
-- Fluxos completos de dados, do dado bruto à conclusão  
-
-Cada projeto busca responder **uma pergunta clara de negócio**, e não apenas demonstrar conhecimento técnico.
-
-## 📈 Direcionamento de Carreira
-- Analista de Dados
-- Ciencia de Dados
-- Business Intelligence / Inteligência Comercial  
-- Analytics aplicado a Produto e Operações
-
-- Meu email: brunorochatec@gmail.com
+## 📫 Como me encontrar
+* **LinkedIn:** [linkedin.com/in/bruno-rocha01](https://www.linkedin.com/in/bruno-rocha01)
+* **Email:** brunorochatec2@gmail.com
