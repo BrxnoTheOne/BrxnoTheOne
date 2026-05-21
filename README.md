@@ -1,4 +1,4 @@
-# Olá, tudo bem? Eu sou o Bruno Rocha! Seja bem-vindo(a) ao meu perfil. 🚀
+## Olá, tudo bem? Seja bem-vindo(a) ao meu perfil. 🚀
 
 Sou um profissional de Dados e Qualidade com sólida experiência em garantir a integridade técnica de sistemas complexos e extrair valor estratégico para o mercado financeiro. Tenho uma forte visão orientada a produto, focada em automação, pipelines analíticos e na geração de insights que impactam diretamente o negócio.
 
